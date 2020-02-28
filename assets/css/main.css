@@ -2457,8 +2457,9 @@ input, select, textarea {
 	.devicon-cont li {
 		padding: 1.5rem;
 		font-size: 40px;
+		
 	}
 
 	#devicon {
-		height: 3rem;
+		height: 5rem;
 	}
