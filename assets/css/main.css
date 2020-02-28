@@ -2373,7 +2373,7 @@ input, select, textarea {
 				}
 
 				.box.style2 {
-					max-width: 32em;
+					max-width: 64em;
 					margin-left: auto !important;
 					margin-right: auto !important;
 				}
@@ -2456,7 +2456,7 @@ input, select, textarea {
 
 	.devicon-cont li {
 		padding: 1.5rem;
-		font-size: 60px;
+		font-size: 100px;
 		
 	}
 
@@ -2465,7 +2465,41 @@ input, select, textarea {
 	}
 
 	.devicon-ruby-plain-wordmark{
-		color: red;
+		color: #D91404;
+	}
+
+	.devicon-rails-plain-wordmark{
+		color: #A62C46;
+	}
+
+	.devicon-javascript-plain{
+		color: #F0DB4F;
+	}
+
+	.devicon-html5-plain-wordmark{
+		color: #E44D26;
+	}
+
+	.devicon-css3-plain-wordmark{
+		color: #1572B6;
+	}
+	.devicon-react-original-wordmark{
+		color: rgb(74, 167, 204);
+	}
+	.devicon-express-original-wordmark{
+		color: #323330;
+	}
+	.devicon-postgresql-plain-wordmark{
+		color: #336791;
+	}
+	.devicon-mongodb-plain-wordmark{
+		color: green;
+	}
+	.devicon-nodejs-plain{
+		color: green;
+	}
+	.devicon-heroku-original-wordmark{
+		color: darkorchid;
 	}
 
 	/* .skill-right{
