@@ -2456,10 +2456,26 @@ input, select, textarea {
 
 	.devicon-cont li {
 		padding: 1.5rem;
-		font-size: 40px;
+		font-size: 60px;
 		
 	}
 
 	#devicon {
 		height: 5rem;
+	}
+
+	.skill-right{
+		list-style: none;
+		display: flex;
+		flex-wrap: wrap;
+		list-style: none;
+		align-items: center;
+		justify-content: center;
+		padding: 0px;
+	}
+
+	.col-xs-2 {
+		padding: 1.5rem;
+		font-size: 40px;
+		
 	}
