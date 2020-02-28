@@ -2464,6 +2464,10 @@ input, select, textarea {
 		height: 5rem;
 	}
 
+	.devicon-ruby-plain-wordmark{
+		color: red;
+	}
+
 	/* .skill-right{
 		display: flex;
 		flex-wrap: wrap;
