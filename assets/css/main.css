@@ -227,6 +227,7 @@ input, select, textarea {
 		margin: 0 auto;
 		max-width: calc(100% - 50px);
 		width: 1200px;
+		
 	}
 
 		.container.medium {
@@ -2502,16 +2503,7 @@ input, select, textarea {
 		color: darkorchid;
 	}
 
-	/* .skill-right{
-		display: flex;
-		flex-wrap: wrap;
-		align-items: center;
-		justify-content: center;
-		padding: 0px;
-	} */
-/* 
-	.col-xs-2 {
-		padding: 1.5rem;
-		font-size: 40px;
+	.download-btn{
+		font-size: 0.7em;
 		
-	} */
+	}
